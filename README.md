@@ -9,7 +9,7 @@ This table lists the design patterns I plan to study and those I have already st
   </tr>
   <tr>
     <td>Singleton</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>Factory Method</td>
