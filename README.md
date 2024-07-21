@@ -13,7 +13,7 @@ This table lists the design patterns I plan to study and those I have already st
   </tr>
   <tr>
     <td>Factory Method</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td>Abstract Factory</td>
